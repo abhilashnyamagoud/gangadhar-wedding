@@ -9,7 +9,7 @@ const App=()=>{
     <div className="m-5 d-flex text-center justify-content-center">
     <div className="row">
       <div className="col-md-12">
-      <img   src={photo1}  width='270' height='250' className="rounded-circle" />
+      <img   src={photo1} alt='wedding' width='270' height='250' className="rounded-circle" />
       </div>
       <div className="col-md-12 card1 mt-3">
       <h4 className="display-6 line1">Together with their families</h4>
