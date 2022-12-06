@@ -1,0 +1,75 @@
+
+
+.h2{
+  font-family:cursive;
+  text-decoration: none;
+}
+
+.card1{
+  background-color: rgba(40, 211, 91, 0.132);
+  border-radius: 50px;
+  padding:30px 20px;
+}
+
+.line1{
+  font-family:serif;
+  color: rgb(106, 208, 10);
+}
+
+.line2{
+  font-family:'Times New Roman', Times, serif;
+  color:tomato;
+}
+.line3{
+  font-family: fantasy;
+  letter-spacing: 5px;
+}
+
+.line4{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color:rgb(218, 106, 7);
+}
+.capital{
+  font-size: 70px;
+  color: red;
+}
+.and{
+  color: rgb(156, 7, 156);
+  font-size: 30px;
+  text-decoration: overline;
+}
+.line5{
+  color: rgb(255, 17, 144);
+  font-family: cursive;
+}
+.line6{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgba(124, 18, 170, 0.817);
+  word-spacing: 5px;
+}
+.line7{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(39, 36, 32);
+}
+.at{
+  color: red;
+  font-size: 60px;
+}
+.line8{
+  font-family:monospace;
+  color: rgb(255, 20, 165);
+}
+.maplink{
+  text-decoration: none;
+  font-weight: 200;
+  font-size: 20px;
+  color: black;
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 30px;
+  
+}
+.maplink:hover{
+  font-size: 25px;
+color: red;
+}
